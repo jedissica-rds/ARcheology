@@ -69,3 +69,14 @@ Esses scripts de comportamento foram adicionados aos prefabs dos artefatos menci
 **Objetivo**: Exercitar o uso do Animator e o controle de parâmetros de animação, aprimorando o domínio sobre movimentos e feedbacks visuais.
 
 **Implementação**: O cilindro foi animado de forma que sua altura aumenta e diminui automaticamente sempre que não está sendo segurado.
+
+## 📸 Screenshots
+
+###
+![Detecção de Superfície](Screenshots/detection.png)
+
+###
+![Interação](Screenshots/interaction.png)
+
+###
+![Armazenamento](Screenshots/storage.png)
