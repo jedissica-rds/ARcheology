@@ -80,3 +80,9 @@ Esses scripts de comportamento foram adicionados aos prefabs dos artefatos menci
 
 ###
 ![](Screenshots/screenshot3.png)
+
+###
+![](Screenshots/screenshot4.png)
+
+###
+![](Screenshots/screenshot5.png)
