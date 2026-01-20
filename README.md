@@ -70,13 +70,13 @@ Esses scripts de comportamento foram adicionados aos prefabs dos artefatos menci
 
 **Implementação**: O cilindro foi animado de forma que sua altura aumenta e diminui automaticamente sempre que não está sendo segurado.
 
-## 📸 Screenshots
+## Screenshots
 
 ###
-![Detecção de Superfície](Screenshots/detection.png)
+![](Screenshots/screenshot1.png)
 
 ###
-![Interação](Screenshots/interaction.png)
+![](Screenshots/screenshot2.png)
 
 ###
-![Armazenamento](Screenshots/storage.png)
+![](Screenshots/screenshot3.png)
